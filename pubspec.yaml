@@ -11,9 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_soloud:
-    git:
-      url: https://github.com/alnitak/flutter_soloud.git
-      ref: main
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
